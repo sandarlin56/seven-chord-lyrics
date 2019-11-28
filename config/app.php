@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => 'https://teamone.te4m.org',
 
     'asset_url' => env('ASSET_URL', null),
 
